@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Created a MPD playlist of last played tracks.
+#Creates a MPD playlist of last played tracks.
 
 while [ 1 ]
 do
